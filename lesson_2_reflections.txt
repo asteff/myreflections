@@ -6,3 +6,7 @@ The staging area is where you add new files you want to commit
 
 How can you use the staging area to make sure you have one commit per logical change?
 You can use git status and git diff --staged
+git
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+You can use a branch when you want make a different version of your product or need a different version to add additional features
