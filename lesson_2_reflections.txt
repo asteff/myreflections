@@ -10,3 +10,6 @@ git
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 You can use a branch when you want make a different version of your product or need a different version to add additional features
+
+How do the diagrams help you visualize the branch structure?
+They help you understand the parent and flow
